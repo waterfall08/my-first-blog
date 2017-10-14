@@ -25,7 +25,7 @@ SECRET_KEY = '7$pru2d#+2d#j$-^r230jgwg-4orb_&r(2p+#*@^s_^ywwuo4d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Dell>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'waterfall08.pythonanywhere.com']
 
 
 # Application definition
